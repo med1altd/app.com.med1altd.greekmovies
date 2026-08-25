@@ -1,0 +1,447 @@
+{
+  "Status": [
+    {
+      "isLive": true,
+      "isWorking": true,
+      "isTest": true,
+      "showAds": true,
+      "showBannerAds": false,
+      "showInterstitialAds": true,
+      "showInterstitialAdsLive": true,
+      "showInterstitialAdsVideo": false,
+      "showRewardedInterstitialAds": false,
+      "showAppOpenAds": false,
+      "enabledCastOption": true,
+      "enabledServerAdRequestsCheck": false,
+      "bypassLockedContent": true,
+      "unlockOption": false,
+      "TVDelay": 240000,
+      "VideoDelay": 240000,
+      "MoviesInfoDelay": 240000,
+      "SeriesInfoDelay": 240000,
+      "MaxDailyAdRequests": 100,
+      "isActivationRequired": true,
+      "promote": false,
+      "promoteTitle": "GreekMovies Update Available",
+      "promoteImageUrl": "https://www.imdb.com/",
+      "promoteButtonTitle": "Download Now!",
+      "promoteUrl": "https://www.imdb.com/",
+      "promoteNotes": "*Keep in mind that...",
+      "promoteMessage": "",
+      "promoteMethod": "OnPlay",
+      "promoteActivities": "TV, Movies, Series",
+      "MessageOld": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1.9) της εφαρμογής \"GreekMovies: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
+      "Message": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
+      "contactName": "Med1a Ltd",
+      "contactEmail": "medialtdcontact@gmail.com",
+      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"GreekMovies\"",
+      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"GreekMovies\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
+      "PrivacyPolicyUrl": "https://www.imdb.com/",
+      "DMCAUrl": "https://www.imdb.com/",
+      "MoreImageUrl": "https://www.imdb.com/",
+      "MoreImageUrlHorizontal": "https://www.imdb.com/",
+      "NoImageUrl": "https://www.imdb.com/",
+      "DMCAImageUrl": "https://www.imdb.com/",
+      "CodeExample": "greek_version_2020",
+      "MoreContentOption": false,
+      "AddContentOption": false,
+      "CalculateAndSendTimeSpentInActivity": false,
+      "CalculateCurentViewers": true,
+      "AddContentFormUrl": "https://www.imdb.com/",
+      "AddContentFormUrlWorking": "https://www.imdb.com/",
+      "checkForUpdates": false,
+      "initialAdRequestDelay": 0,
+      "AdsType": "AdMob",
+      "BannerAdsType": "AdMob",
+      "InterstitialAdsType": "AdMob",
+      "RewardedAdsType": "AdMob",
+      "RewardedInterstitialAdsType": "AdMob",
+      "AppOpenAdsType": "AdMob",
+      "DelayEveryAdUnit": false,
+      "InitialDelay": "Nothing",
+      "TVDelayAdMob": 240000,
+      "VideoDelayAdMob": 240000,
+      "MoviesInfoDelayAdMob": 240000,
+      "SeriesInfoDelayAdMob": 240000,
+      "TVDelayUnity": 10000,
+      "VideoDelayUnity": 10000,
+      "MoviesInfoDelayUnity": 10000,
+      "SeriesInfoDelayUnity": 10000,
+      "introductionEnabled": true,
+      "MessageAlert": false,
+      "MessageText": "Live ΤΕΛΙΚΟΣ CONFERENCE LEAGUE: Ολυμπιακός - Φιορεντίνα - ΔΕΙΤΕ ΤΟ LIVE ΣΤΟ MOVIEFLIX ΣΤΙΣ 22:00 - Αν δεν λειτουργεί το κανάλι Mega TV Live δοκιμάστε το Κανάλι του Ολυμπιακού",
+      "MessageButtonText": "INSTALL",
+      "MessageButtonDestination": "https://www.imdb.com/",
+      "MessageAdditionalWay": "Image",
+      "MessageImageUrl": "https://www.imdb.com/"
+    }
+  ],
+  "Introduction": [
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    },
+    {
+      "Image": "https://www.imdb.com/",
+      "ImageGreece": "https://www.imdb.com/"
+    }
+  ],
+  "Pre-Unlocked": [
+    {
+      "Code": "greek_version_2023"
+    }
+  ],
+  "Ads": [
+    {
+      "APP_ID_AdMob": "ca-app-pub-4120653340699589~7069121328",
+      "Banner_Id_AdMob": "",
+      "Banner_Id_AdMobReal": "",
+      "Interstitial_Id_AdMob": "ca-app-pub-4120653340699589/3087899318",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-4120653340699589/3087899318",
+      "Rewarded_Id_AdMob": "",
+      "Rewarded_Id_AdMobReal": "",
+      "AppOpen_Id_AdMob": "",
+      "RewardedInterstitial_Id_AdMob": "",
+      "APP_ID_Unity": "5538795",
+      "Banner_Id_Unity": "Banner_Android",
+      "Interstitial_Id_Unity": "Interstitial_Android",
+      "Rewarded_Id_Unity": "Rewarded_Android",
+      "AppOpen_Id_Unity": "NO_ID",
+      "RewardedInterstitial_Id_Unity": "NO_ID",
+      "TVDelayBannerAdMob": 10000,
+      "VideoDelayBannerAdMob": 10000,
+      "TVDelayBannerUnity": 10000,
+      "VideoDelayBannerUnity": 10000,
+      "TVDelayInterstitialAdMob": 10000,
+      "VideoDelayInterstitialAdMob": 10000,
+      "MoviesInfoDelayInterstitialAdMob": 10000,
+      "SeriesInfoDelayInterstitialAdMob": 10000,
+      "TVDelayInterstitialUnity": 10000,
+      "VideoDelayInterstitialUnity": 10000,
+      "MoviesInfoDelayInterstitialUnity": 10000,
+      "SeriesInfoDelayInterstitialUnity": 10000,
+      "MoviesInfoDelayRewardedAdMob": 10000,
+      "SeriesInfoDelayRewardedAdMob": 10000,
+      "MoviesInfoDelayRewardedUnity": 0,
+      "SeriesInfoDelayRewardedUnity": 0,
+      "delayAppOpenMainActivity": 600000,
+      "delayInterstitialRewardedMainActivity": 1200000,
+      "delayBannerLiveStreamingActivity": 90000,
+      "delayInterstitialLiveStreamingActivity": 90000,
+      "delayInterstitialRewardedMoviesInfoActivity": 1200000,
+      "delayRewardedMoviesInfoActivity": 30000,
+      "delayInterstitialRewardedSeriesInfoActivity": 1200000,
+      "delayRewardedSeriesInfoActivity": 30000,
+      "delayBannerVideoStreamingActivity": 90000,
+      "delayInterstitialVideoStreamingActivity": 60000,
+      "Pre-Delay": [
+        {
+          "AdMob": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ],
+          "Unity": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Rating": [
+    {
+      "InstagramUserName": "med1altd",
+      "isInstagramVisisible": true,
+      "isRatingVisible": true,
+      "RatingUrl": "https://www.imdb.com/",
+      "isInfoVisible": true,
+      "InfoText": "Αποποίηση Ευθυνών για την Εφαρμογή:\nΗ παρούσα αποποίηση ευθυνών αναφέρεται στη χρήση και τη λειτουργία της εφαρμογής GreekMovies, εντός των πλαισίων της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, σύμφωνα με το άρθρο 15 της εν λόγω Οδηγίας.\nΣύμφωνα με την Ευρωπαϊκή Οδηγία 2000/31/ΕΚ, άρθρο 15, η εταιρεία φιλοξενίας δεν φέρει γενική υποχρέωση να παρακολουθεί τα περιεχόμενα που μεταφέρονται ή αποθηκεύονται μέσω της εφαρμογής. Συνεπώς, επισημαίνουμε ότι η ευθύνη για το περιεχόμενο που δημιουργούν ή μεταφέρουν οι χρήστες ανήκει αποκλειστικά σε αυτούς τους χρήστες.\n\nΟι χρήστες της εφαρμογής GreekMovies είναι υπεύθυνοι για την τήρηση όλων των ισχυόντων νόμων και κανονισμών σχετικά με το περιεχόμενο που προσθέτουν ή μοιράζονται. Η εταιρεία διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να παρακολουθεί, να φιλτράρει, να επεξεργάζεται ή να αφαιρεί περιεχόμενο που θεωρεί ότι παραβιάζει τους όρους χρήσης ή τις νομικές απαιτήσεις.\n\nΠροτού οι χρήστες προβούν σε οποιαδήποτε νομική διαδικασία, υποχρεούνται να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής GreekMovies. Σε περίπτωση παράκαμψης του παραπάνω όρου της εφαρμογής, η εταιρεία προγραμματιστών μας θα επιφυλαχθεί του δικαιώματος να κινηθεί νομικά εναντίον οποιουδήποτε παραβιάζει τους όρους χρήσης.\n\nΕπιπλέον, υπάρχει περιεχόμενο εντός της εφαρμογής που μπορεί να ξεκλειδωθεί από τους χρήστες με την εισαγωγή ενός μοναδικού κωδικού. Όσοι χρήστες επιθυμούν να δημιουργήσουν λίστα με ενσωματωμένο περιεχόμενο (Τηλεοπτικά Κανάλια, Ταινίες & Σειρές) και να το μοιραστούν μαζί με άλλους χρήστες, έχουν την επιλογή να αποκτήσουν από την ομάδα προγραμματιστών μας έναν ξεχωριστό κωδικό περιεχομένου. Η εταιρεία δεν φέρει καμία ευθύνη για το υλικό αυτό, και σε περίπτωση επιθυμίας διαγραφής ολόκληρου ή τμήματος του συγκεκριμένου περιεχομένου συνίσταται η υποβολή της ειδικής φόρμας DMCA που βρίσκεται στο κάτω μέρος της συγκεκριμένης σελίδας.",
+      "isSubscriptionVisible": false,
+      "SubmissionUrl": "https://www.imdb.com/"
+    }
+  ],
+  "Standard": [
+    {
+      "TV": [
+        {
+          "Url": "https://www.imdb.com/"
+        }
+      ],
+      "Movies": [
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 0
+        },
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 1
+        },
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 2
+        }
+      ],
+      "Series": [
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 0
+        },
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 1
+        },
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 2
+        }
+      ],
+      "Kids": [
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 0
+        },
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 1
+        },
+        {
+          "Url": "https://www.imdb.com/",
+          "Category": 2
+        }
+      ]
+    }
+  ],
+  "Access": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://www.imdb.com/"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 0
+            },
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 1
+            },
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 2
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 0
+            },
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 1
+            },
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 2
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 0
+            },
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 1
+            },
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "AccessTV": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://www.imdb.com/"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 0
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 0
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://www.imdb.com/",
+              "Category": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "Movies": [
+    {
+      "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Movies",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Movies",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Movies",
+      "isUnlocked": false
+    }
+  ],
+  "Series": [
+    {
+      "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Series",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Ελληνικές Σειρές",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Series",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Ελληνικές Τηλεοπτικές Σειρές",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Series",
+      "isUnlocked": false
+    }
+  ],
+  "Kids": [
+    {
+      "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Movies",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "Series",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Παιδικά YouTube Κανάλια",
+      "Image": "https://www.imdb.com/",
+      "JSON": "https://www.imdb.com/",
+      "Type": "YouTube",
+      "isUnlocked": false
+    }
+  ],
+  "Fetch": [
+    {
+      "Title": "MediaFire",
+      "beforeEnd": 5,
+      "Type": "media",
+      "StartString": "https://www.imdb.com/",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
+    },
+    {
+      "Title": "Voe",
+      "beforeEnd": 0,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    }
+  ],
+  "API": [
+    {
+      "requestAdMobRequestsAPIUrl": "https://www.imdb.com/",
+      "updateAdMobRequestsAPIUrl": "https://www.imdb.com/",
+      "updateAdMobMatchedRequestsAPIUrl": "https://www.imdb.com/",
+      "sendTimeSpentAPIUrl": "https://www.imdb.com/"
+    }
+  ],
+  "jsonArrayAdditionalWebViewCode": [
+    {
+      "VidHide": "javascript:(function(){var playButton = document.querySelector('.jw-icon.jw-icon-display');if (playButton) {playButton.click();}})()"
+    }
+  ]
+}
